@@ -7,6 +7,8 @@ It's self-explanatory really. Receive an email every day with a different type o
 
 I took it a step further and used HTML and CSS to build the design after I completed it on Figma.
 
+Check out my designs: https://sadib1392.github.io/daily-ui-challenge/
+
 ----------------------------------------------------------------------------------------------
 
 **Daily UI #1:** Create a sign up page, form, or app screen related to signing up for something. It could be fior a volunteer event, contest registration, a giveaway, or anything you can imagine.
